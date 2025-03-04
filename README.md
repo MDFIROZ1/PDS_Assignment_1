@@ -1,4 +1,4 @@
-For the Student Performance data we can get the analysis of the data has its own type of benefits and understanding.
+For the Student Performance data we can get the analysis of the data has its own understanding of each visualzations.
 
 We can get the better understanding in Pie charts but as we see the other visualizations we have the differiate of understanding of data 
 like female and male data has been shown in the pie chart. We can able to see the data in terms of percentage.
